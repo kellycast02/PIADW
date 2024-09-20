@@ -1,4 +1,4 @@
-/* Estilo General */
+
 * {
     margin: 0;
     padding: 0;
@@ -113,7 +113,7 @@ button:hover {
     color: white;
 }
 
-/* Animaciones y transición */
+
 input, select, textarea, button {
     transition: all 0.3s ease;
 }
